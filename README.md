@@ -22,3 +22,9 @@ Primeiro, rode os arquivos nessa ordem:
 - Editar gênero;
 - Excluir gênero;
 
+
+## Porcentagem de Uso da Linguagem
+Este repositório contém:
+- SQL: 100%
+
+
