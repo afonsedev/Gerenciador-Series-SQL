@@ -24,7 +24,9 @@ Primeiro, rode os arquivos nessa ordem:
 
 
 ## Porcentagem de Uso da Linguagem
-Este repositório contém:
+
+De acordo com a análise manual, este repositório contém aproximadamente:
 - SQL: 100%
+
 
 
